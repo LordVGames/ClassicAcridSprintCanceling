@@ -1,5 +1,5 @@
 # ClassicAcridSprintCanceling
-Before the SOTV DLC released, sprint-canceling Acrid's primary attack would make it reset the combo, meaning you would keep doing the first hit over and over. This mod brings that back!
+Before the SOTV DLC released, sprint-canceling Acrid's primary attack would make it reset the combo, meaning you would keep doing the first hit over and over. This mod re-creates that!
 
 ## Before
 
