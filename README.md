@@ -1,9 +1,11 @@
-# R2Boilerplate
+# ClassicAcridSprintCanceling
+Before the SOTV DLC released, sprint-canceling Acrid's primary attack would make it reset the combo, meaning you would keep doing the first hit over and over. This mod brings that back!
 
-This repository contains a sample mod for Risk of Rain 2.
+## Before
 
-You can clone this repository, open the visual studio solution file and compile it immediately.
+![output2](https://github.com/user-attachments/assets/c4b2d294-e38f-46ba-8788-794006986b55)
 
-This repository is meant to represent best practices for starting a simple mod.
 
-Once your mod get compiled, you can utilize the Thunderstore folder for later uploading it to https://thunderstore.io/c/riskofrain2/
+## After
+
+![output1](https://github.com/user-attachments/assets/14616ad7-c723-4879-abef-df3da4e820b4)
